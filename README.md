@@ -18,7 +18,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/luisnietohueso)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 
 ### ML/DL
@@ -46,7 +46,7 @@ luisnietohueso/luisnietohueso is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/luisnietohueso">
     <img src="https://komarev.com/ghpvc/?username=luisnietohueso&color=blue&style=flat)" />
   </a>
 </p>
