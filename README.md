@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Luis Nieto Hueso<br>
-        Currently learning more about this world of programming<br>
+        Currently learning more about the world of programming<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/luis-nieto-hueso-10aaa296">
