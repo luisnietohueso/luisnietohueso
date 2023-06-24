@@ -19,6 +19,8 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/luisnietohueso)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![Scheme](https://img.shields.io/badge/scheme-black?style=for-the-badge&logo=drracket)
+
 
 
 ### ML/DL
